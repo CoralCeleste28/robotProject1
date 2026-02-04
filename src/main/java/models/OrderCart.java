@@ -11,6 +11,6 @@ public class OrderCart {
     }
 
     public void setMenuItems(Map<Integer, MenuItemInCart> menuItemsMap){
-        this.items = menuItems;
+        this.menuItems = menuItems;
     }
 }
